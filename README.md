@@ -18,7 +18,6 @@ Data file structure:
 
 ## 3. What I did
 
-[Main Code](Image_Classifier_Project.ipynb)
 
 1. Data loading and data preprocessing
 
@@ -44,9 +43,6 @@ Data file structure:
 
 4. Build a command line application
 
-    - See below for details
-
-<img src="assets/inference_example2.png" width=300>
 
 ## 4. How to run the command line application
 
@@ -67,7 +63,7 @@ Data file structure:
 
     [`predict.py`](predict.py): Use the trained image classifier to predict flower name along with the probability of that name
 
-    - Basic usage: 
+    - Basic usage:
         - Specify file path of the image and directory name of saved checkpoint: `python predict.py flowers/test/1/image_06743.jpg assets`
 
     - Options:

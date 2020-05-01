@@ -1,6 +1,6 @@
-# Data Scientist Project
+# AI Project
 
-Project code for Udacity's Data Scientist Nanodegree program. In this project, you will first develop code for an image classifier built with PyTorch, then you will convert it into a command line application.
+Project code for AI Programming with Python Nanodegree program. In this project, you will first develop code for an image classifier built with PyTorch, then you will convert it into a command line application.
 
 In order to complete this project, you will need to use the GPU enabled workspaces within the classroom.  The files are all available here for your convenience, but running on your local CPU will likely not work well.
 
